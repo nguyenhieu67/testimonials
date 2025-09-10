@@ -224,6 +224,9 @@ strong {
     grid-template-areas: "card-1" "card-2" "card-3" "card-4" "card-5";
     width: 100%;
   }
+  .blg__img {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

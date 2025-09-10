@@ -239,10 +239,6 @@ strong {
             "card-5 card-5";
         width: 100%;
     }
-
-    .blq img {
-        display: none;
-    }
 }
 
 @media (max-width: 420px) {
@@ -256,5 +252,9 @@ strong {
             "card-4"
             "card-5";
         width: 100%;
+    }
+
+    .blg__img {
+        display: none;
     }
 }
